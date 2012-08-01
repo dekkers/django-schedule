@@ -30,7 +30,7 @@
         "model": "schedule.rule",
         "fields": {
             "frequency": "YEARLY",
-            "params": null,
+            "params": "",
             "name": "Yearly",
             "description": "will recur once every Year"
         }
@@ -40,7 +40,7 @@
         "model": "schedule.rule",
         "fields": {
             "frequency": "MONTHLY",
-            "params": null,
+            "params": "",
             "name": "Monthly",
             "description": "will recur once every Month"
         }
@@ -50,7 +50,7 @@
         "model": "schedule.rule",
         "fields": {
             "frequency": "WEEKLY",
-            "params": null,
+            "params": "",
             "name": "Weekly",
             "description": "will recur once every Week"
         }
@@ -60,7 +60,7 @@
         "model": "schedule.rule",
         "fields": {
             "frequency": "DAILY",
-            "params": null,
+            "params": "",
             "name": "Daily",
             "description": "will recur once every Day"
         }
